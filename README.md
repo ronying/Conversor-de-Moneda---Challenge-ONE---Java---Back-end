@@ -3,7 +3,7 @@
 Este desafio se realizó un conversor de moneda como prueba aplicando lo aprendido en el curso, el conversor
 obtiene los valores de la moneda que uno desea frente a las divisas extranjeras solicitadas.
 
-La aplicación esta conectada a internet, ya que consume un API REST la cual es Exchange Rates Data API.
+La aplicación esta conectada a internet, ya que consume un API REST la cual es ExchangeRate-API.
 
 Requisitos Proyecto:
 
